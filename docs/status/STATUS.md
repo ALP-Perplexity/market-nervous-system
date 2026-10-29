@@ -23,3 +23,6 @@ Retrieval/lookup/LLM/venue latency, tokens, cache, cost and forecast scores: NOT
 
 ## Latest handoff
 Revision: none supplied. Environment: none supplied. Test output: none supplied.
+
+## Documentation refinement — 2026-10-30
+Orb-brain research/specification and bounded task prepared. ADR-0003 is PROPOSED. Spike execution, temporal-isolation tests, retrieval comparison and vault recovery tests remain UNVERIFIED; runtime implementation remains PLANNED. See docs/kb/12-orb-brain-knowledge.md and prompts/03-orb-brain-spike.md. No prior implementation state or metric is upgraded by this documentation change.

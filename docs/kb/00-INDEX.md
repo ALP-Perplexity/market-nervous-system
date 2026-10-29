@@ -18,3 +18,6 @@ Read only task-relevant files.
 
 Code/status/command evidence show implementation reality. Accepted ADRs show intended design.
 Surface conflicts; do not silently update a decision to match accidental code drift.
+
+## Orb-brain supplement — 2026-10-30
+Read 12-orb-brain-knowledge.md and ../../perplexity-project/15-orb-brain-knowledge.md for the detailed research contract. Task: ../../prompts/03-orb-brain-spike.md. Proposed decision: ../decisions/ADR-0003-orb-brain-memory.md.

@@ -19,3 +19,10 @@ No confirmed first venue/account type, API plan, universe, horizon, wallet, mode
 
 ## Session recovery
 Read 00-INDEX.md, 06-roadmap-status.md and 08-decisions.md; then retrieve only relevant files. Ask for current revision/report if implementation claims are newer than this snapshot.
+
+## Research and repository context — 2026-10-30
+Repository discovered through the connected GitHub account: https://github.com/ALP-Perplexity/market-nervous-system (private; default branch main). This resolves only the earlier unknown repository URL; other unknowns remain. Read current GitHub status before implementation claims.
+Viktor requested preservation of the orb-brain research in project files and a bounded coding-agent handoff. The research refines existing decisions; detailed mechanisms and ADR-0003 remain PROPOSED, not silently accepted.
+Recall: brain = evidence → attributed claims → time-eligible context → immutable forecast → act/abstain → evaluation → scoped lesson → tested/versioned improvement. Obsidian is a generated readable surface, not the learner. Derived summaries/edges/lessons/calibration can leak future knowledge. Keep original evidence, counterevidence and scoped counterexamples. Sparse real-task activation, not permanent chatting per orb.
+Read 15-orb-brain-knowledge.md and sources S23–S26 when relevant. Research inspiration: A-Mem atomic links, Graphiti temporal relationships, ACE incremental playbooks, HippoRAG associative retrieval, LongMemEval test categories. No reproduced benchmark or trading benefit established.
+Account-level memory is not claimed saved. Project upload and GitHub commit require separate verified actions.

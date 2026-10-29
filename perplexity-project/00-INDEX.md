@@ -25,3 +25,6 @@ Repository references inside these files are paths in the companion coding-agent
 
 ## Versions
 Initial complete pack: v1.0, 2026-10-29. All production implementation remains PLANNED or UNVERIFIED until agent evidence is supplied.
+
+## Orb-brain research supplement — 2026-10-30
+Read 15-orb-brain-knowledge.md for evaluated learning, temporal projection isolation, Obsidian consistency and reviewer instructions. Coding-agent task: prompts/03-orb-brain-spike.md. ADR-0003 is PROPOSED; no production completion is established. Source additions: 11-sources-and-evidence.md, S23–S26.

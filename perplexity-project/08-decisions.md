@@ -22,3 +22,6 @@ If code diverges from an accepted design, report the divergence and ask for deci
 
 ## ADR template
 ID/title; status; date; context; options (at least two where meaningful); decision; reasons; consequences; verification gate; evidence links; revisit trigger; supersedes.
+
+## Proposed refinement — 2026-10-30
+ADR-0003, docs/decisions/ADR-0003-orb-brain-memory.md, proposes versioned temporal projections, controlled vault input and evaluated lessons. Status: PROPOSED, execution UNVERIFIED. Extends D-003/D-004/D-012; supersedes no accepted decision and adds no mandatory framework. Research and reviewer contract: 15-orb-brain-knowledge.md.

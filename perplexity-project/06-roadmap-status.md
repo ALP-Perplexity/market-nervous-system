@@ -40,3 +40,6 @@ First venue/account region/product; asset universe and forecast horizon; hardwar
 
 ## Next recommended task
 M0 foundation inspection/scaffold and verification, followed by bounded M1 integration spike. Graphify is useful development tooling but not a blocker to the first vertical slice.
+
+## Research delta — 2026-10-30
+Orb-brain refinement is PROPOSED; spike execution is UNVERIFIED. See 15-orb-brain-knowledge.md and prompts/03-orb-brain-spike.md. Scope refines M2/M3/M5; it does not reorder M0/M1 or declare milestones complete. No performance measurements or production tests supplied. ADR-0003 remains PROPOSED.

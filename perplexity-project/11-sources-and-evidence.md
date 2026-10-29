@@ -35,3 +35,16 @@ Claim ID; exact claim; source URL; source type; checked_at; version/commit; quot
 
 ## Execution evidence record
 Artifact/test ID; revision; environment; dependency versions; exact command; output/exit code; observed result; pass criteria; fixture/simulation/live classification; timestamp; reviewer.
+
+## Orb-brain research — recorded 2026-10-30
+These are prior-session readings preserved from the conversation, not new web checks in this packaging task. No dependency installation, benchmark reproduction or trading validation was performed. No general current-license/maintenance claim is established.
+
+| ID | Primary source | Mechanism and limitations | Evidence state |
+|---|---|---|---|
+| S23 | https://arxiv.org/html/2502.12110 | A-Mem atomic notes, links and contextual evolution; conversational benchmark, not trading evidence. MNS adapts updates into preserved versions. | DOCUMENTED in prior session; paper version not pinned |
+| S24 | https://ar5iv.labs.arxiv.org/html/2502.14802 | HippoRAG 2 passage/concept graph retrieval; QA/associativity evaluation, not market forecasts. | DOCUMENTED in prior session; implementation not reproduced |
+| S25 | https://github.com/ace-agent/ace/blob/main/README.md | ACE generator/reflector/curator and incremental playbook changes; finance extraction/structured tasks, not trading validation. | DOCUMENTED in prior session; commit/license/current compatibility re-check required |
+| S26 | https://arxiv.org/abs/2410.10813 | LongMemEval extraction, multi-session/temporal reasoning, updates and abstention; chat memory evaluation. | DOCUMENTED in prior session; no MNS benchmark run |
+
+S12 additional prior-session evidence: Graphiti README at https://github.com/getzep/graphiti/blob/72b5c59c06607e09ea855be61b6ff5a3446fc951/README.md described temporal relationships, episode provenance and hybrid retrieval. That description does not establish application-wide historical isolation or measured latency. Recheck exact APIs/structured-output behaviour before implementation.
+Research application: 15-orb-brain-knowledge.md. Proposed ADR: docs/decisions/ADR-0003-orb-brain-memory.md. Execution evidence: none supplied.
