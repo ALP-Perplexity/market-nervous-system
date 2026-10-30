@@ -26,3 +26,6 @@ Revision: none supplied. Environment: none supplied. Test output: none supplied.
 
 ## Documentation refinement — 2026-10-30
 Orb-brain research/specification and bounded task prepared. ADR-0003 is PROPOSED. Spike execution, temporal-isolation tests, retrieval comparison and vault recovery tests remain UNVERIFIED; runtime implementation remains PLANNED. See docs/kb/12-orb-brain-knowledge.md and prompts/03-orb-brain-spike.md. No prior implementation state or metric is upgraded by this documentation change.
+
+## Obsidian tooling review — 2026-10-30
+Vendored four kepano/obsidian-skills Markdown skills (obsidian-markdown, obsidian-bases, json-canvas, obsidian-cli) at 3ccff53 into .claude/skills/; provenance in .claude/skills/THIRD_PARTY.md. Reviewed obsidian-mind and obsidian-second-brain; not installed. See docs/kb/13-obsidian-agent-memory-review.md. Documentation/tooling change only: no runtime dependency, hook or service added; vault projection remains PLANNED.

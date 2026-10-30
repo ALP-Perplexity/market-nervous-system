@@ -48,6 +48,7 @@ These are target paths until M0 creates or adapts them.
 
 ## Skills
 .claude/skills/*/SKILL.md contains reference workflows. Use only task-relevant skills.
+Obsidian format skills are vendored third-party (.claude/skills/THIRD_PARTY.md).
 Other agents need explicit supported discovery configuration; no universal symlink assumption.
 Graphify is optional dev-time navigation, never authoritative over source code.
 
