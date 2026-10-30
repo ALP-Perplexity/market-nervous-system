@@ -13,6 +13,7 @@ Read only task-relevant files.
 | Research references | 08-research-landscape.md |
 | Milestones | 09-roadmap.md |
 | Terms | 10-glossary.md |
+| Obsidian/agent-memory tooling review | 13-obsidian-agent-memory-review.md |
 | Architecture selection | ../decisions/ADR-0001-stack.md, ADR-0002-execution-engine.md |
 | Implementation evidence | ../status/STATUS.md |
 
